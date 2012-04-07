@@ -1,0 +1,9 @@
+### Curtains' Workshop ###
+#This is a version file
+#  used for dynamically updating links so that people know there's something new
+#  it also contains the changelogs for a given project
+
+
+version 0
+    - Basic ideas implemented
+    - Functioning but it lacks database content and usage feedback
